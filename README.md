@@ -1,5 +1,16 @@
 # CMS Codign Challenge 
 
+## Clone and Running
+
+Clone the repo:
+    
+    git clone https://github.com/eryxjose/cms-coding-challenge-dotnet5.git
+
+Run the app:
+
+* Open api folder on terminal and run 'dotnet run' command.
+* Access 'http://localhost:5000/swagger' on the browser.
+
 ## Resume 
 This application contains a architecture working skelleton and domain specific features to present an tagged article with a side bar showing articles with the same tags. 
 
