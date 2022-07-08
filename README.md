@@ -1,6 +1,6 @@
 # CMS Codign Challenge 
 
-## Clone and Running
+## Clone and Run
 
 Clone the repo:
     
@@ -32,10 +32,9 @@ The architecture for the application uses CQRS/Mediator pattern with the followi
 
 ## Technologies
 
-* Dotnet5
-* Ef core/code first
-* Swagger
-* Sqlite
+* dotnet5 / C#
+* ef core/code first
+* swagger
+* sqlite
 * MediatR
 * Automapper
-* 
